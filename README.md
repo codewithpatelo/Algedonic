@@ -13,7 +13,7 @@ Alternatively, you can start dev mode by using `npm run dev`.
 
 **Case outline:**
 
- While we're more connected than ever in history thanks to
+While we're more connected than ever in history thanks to
                     technology, more often than not, we can see people
                     struggling with complex emotions and moods. They/We're coping with
                     such emotions alone, and they/we might think they/we're the only ones
@@ -23,7 +23,7 @@ Alternatively, you can start dev mode by using `npm run dev`.
                     shared those emotions are with your peers. Widespread depression and anxiety is, in fact, nowadays a
                     global public health issue (In fact, according to the WHO, it is estimated that 5.0% of adults suffer from depression). But, what if we, collectively, can help each other to make something out of this reality?
                     The fact that people starting to experience loneliness don't know about each other and their coping strategies
-                    undermine opportunities for mutual-aid and collective
+                    undermine opportunities for the coordination of mutual aid and collective
                     action. Algedonic uses cybernetic technology (an algedometer + feedforward adaption procedure of pain alleviation to handle system disturbances) to collect anonymous data about affective states
                     from working people. Algedonic not only shows you that you're not the only one feeling that way but encourages you and connect with people from the community to actually brainstorm structural strategies of mutual aid helping community members to map and organize collective action focused on tackling such issues collaborative peer-reported by the community. Algedonic, then, turns those previously unknown disturbances into opportunities to enhance the adaptive resilience of the community and its comprising peer members.
                   
