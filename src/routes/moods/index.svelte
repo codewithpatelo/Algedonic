@@ -117,7 +117,7 @@ import { stores } from "@sapper/app";
                                 </div>
                             </div>
                             <!-- END CARD -->
-                        {:else if m.label == 'dispirited' || m.label == 'sad'}
+                        {:else if m.label == 'sad'}
                             <div class="card-alert card orange lighten-5">
 
                                 <div class="card-content orange-text">
