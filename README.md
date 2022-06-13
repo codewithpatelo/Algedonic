@@ -21,11 +21,11 @@ Alternatively, you can start dev mode by using `npm run dev`.
                     while we keep our minds busy over the 5/9 routine, sometimes
                     we lose perspective on how common and pandemic this issue really is. Not to mention how
                     shared those emotions are with your peers. Widespread depression and anxiety is, in fact, nowadays a
-                    global public health issue (In fact, according to the WHO, it is estimated that 5.0% of adults suffer from depression). But, what if we, collectively, can help each other to make something out this reality?
-                    The fact that people starting experincing loniness don't know about each other and their coping strategies,
-                    undermines opportunities for mutual-aid and collective
-                    action. Algedonic uses cybernetic technology (an algedometer + feedforward adaption procedure of pain alliviation to handle system disturbances) to collect annonymous data about affective states
-                    from working people. Algedonic not only shows you that you're not the only one fealing that way but encourages you and connect with people from the community to actually brainstorm structural strategies of mutual-aid helping community members to map and organize collective action focused on tackling such issues collaborative peer-reported by the community. Algedonic, then, turns those previously unknown disturbances into opportunities to enhance adaptive resilience of the community and its comprising peer members.
+                    global public health issue (In fact, according to the WHO, it is estimated that 5.0% of adults suffer from depression). But, what if we, collectively, can help each other to make something out of this reality?
+                    The fact that people starting to experience loneliness don't know about each other and their coping strategies
+                    undermine opportunities for mutual-aid and collective
+                    action. Algedonic uses cybernetic technology (an algedometer + feedforward adaption procedure of pain alleviation to handle system disturbances) to collect anonymous data about affective states
+                    from working people. Algedonic not only shows you that you're not the only one feeling that way but encourages you and connect with people from the community to actually brainstorm structural strategies of mutual aid helping community members to map and organize collective action focused on tackling such issues collaborative peer-reported by the community. Algedonic, then, turns those previously unknown disturbances into opportunities to enhance the adaptive resilience of the community and its comprising peer members.
                   
 
 
@@ -37,7 +37,11 @@ MaterializeCss Admin Dashboard + Neumorphism UI (todo: Shift entirely to Neumorp
 ![image](https://user-images.githubusercontent.com/16574952/173208359-533036c4-a0b8-4534-a0b9-cab551bdb679.png)
 
 
-_Other TODOs:_ Build Eslint-Prettier pipeline, Add Cypress UT, Add Coverage Tests, Add vulnerability checks. Add CI pipeline. Refine and purge NavBar Autocomplete legacy models. Finish Sidebarpages. Add reactivity to aggregation for glowing circle. Connect with own DB (NestJS). Add expire headers and improve cache. Remove unnecesary cookies. Dockerify repository.
+_Other TODOs:_ Build Eslint-Prettier pipeline, Add Cypress UT, Add Coverage Tests, Add vulnerability checks. Add CI pipeline. Refine and purge NavBar Autocomplete legacy models. Finish Sidebarpages. Add reactivity to aggregation for glowing circle. Add upload mood function. Connect with own DB (NestJS). Add expire headers and improve cache. Remove unnecesary cookies. Dockerify repository.
 
 ![image](https://user-images.githubusercontent.com/16574952/173208447-b130c0dd-18a4-4cb9-933b-2d2d20888895.png)
+
+**Sources:**
+
+- https://www.who.int/news-room/fact-sheets/detail/depression
 
