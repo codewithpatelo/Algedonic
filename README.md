@@ -20,8 +20,8 @@ While we're more connected than ever in history thanks to
                     experiencing such hardships. Now, as working-class people,
                     while we keep our minds busy over the 5/9 routine, sometimes
                     we lose perspective on how common and pandemic this issue really is. Not to mention how
-                    shared those emotions are with your peers. Widespread depression and anxiety is, in fact, nowadays a
-                    global public health issue (In fact, according to the WHO, it is estimated that 5.0% of adults suffer from depression). But, what if we, collectively, can help each other to make something out of this reality?
+                    shared those emotions are with your peers. Widespread depression and anxiety is, indeed, nowadays a
+                    global public health issue (As a matter of fact, according to the WHO, it is estimated that 5.0% of adults suffer from depression). But, what if we, collectively, can help each other to make something out of this reality?
                     The fact that people starting to experience loneliness don't know about each other and their coping strategies
                     undermine opportunities for the coordination of mutual aid and collective
                     action. Algedonic uses cybernetic technology (an algedometer + feedforward adaption procedure of pain alleviation to handle system disturbances) to collect anonymous data about affective states
