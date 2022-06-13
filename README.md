@@ -20,12 +20,12 @@ While we're more connected than ever in history thanks to
                     experiencing such hardships. Now, as working-class people,
                     while we keep our minds busy over the 5/9 routine, sometimes
                     we lose perspective on how common and pandemic this issue really is. Not to mention how
-                    shared those emotions are with your peers. Widespread depression and anxiety is, indeed, nowadays a
+                    shared those emotions are with your peers. Not only apathy and demotivation but widespread depression and anxiety are, indeed, nowadays a
                     global public health issue (As a matter of fact, according to the WHO, it is estimated that 5.0% of adults suffer from depression). But, what if we, collectively, can help each other to make something out of this reality?
                     The fact that people starting to experience loneliness don't know about each other and their coping strategies
                     undermine opportunities for the coordination of mutual aid and collective
                     action. Algedonic uses cybernetic technology (an algedometer + feedforward adaption procedure of pain alleviation to handle system disturbances) to collect anonymous data about affective states
-                    from working people. Algedonic not only shows you that you're not the only one feeling that way but encourages you and connect with people from the community to actually brainstorm structural strategies of mutual aid helping community members to map and organize collective action focused on tackling such issues collaborative peer-reported by the community. Algedonic, then, turns those previously unknown disturbances into opportunities to enhance the adaptive resilience of the community and its comprising peer members.
+                    from working people. Algedonic not only shows you that you're not the only one feeling that way but encourages you and connect with people from the community to actually brainstorm structural strategies of mutual aid helping community members to map and organize collective action focused on tackling such issues collaboratively peer-reported by the community. Algedonic, then, turns those previously unknown disturbances into opportunities to enhance the adaptive resilience of the community and its comprising peer members.
                   
 
 
