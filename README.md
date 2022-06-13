@@ -14,7 +14,7 @@ Alternatively, you can start dev mode by using `npm run dev`.
 **Case outline:**
 
  While we're more connected than ever in history thanks to
-                    technology. More often than not, we can see people
+                    technology, more often than not, we can see people
                     struggling with complex emotions and moods. They/We're coping with
                     such emotions alone, and they/we might think they/we're the only ones
                     experiencing such hardships. Now, as working-class people,
