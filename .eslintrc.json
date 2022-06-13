@@ -1,0 +1,24 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2019,
+    "sourceType": "module"
+  },
+  "plugins": ["promise", "promise-catch", "svelte3", "html"],
+  "overrides": [
+    {
+      "files": "*.svelte",
+      "processor": "svelte3/svelte3"
+    }
+  ],
+  "extends": ["plugin:promise/recommended", "airbnb", "eslint:recommended"],
+  "rules": {
+    "linebreak-style": ["error", "windows"],
+    "prettier/prettier": "error",
+    "promise-catch/throw-or-log": [
+      2,
+      {
+        "customLoggers": true
+      }
+    ]
+  }
+}

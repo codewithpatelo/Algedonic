@@ -1,0 +1,17 @@
+/node_modules
+/src/node_modules
+/test
+/__sapper__
+/static/pictures
+/.session
+.coveralls.yml
+/coverage
+/.nyc_output
+/cypress
+/.git
+/.sessions
+/static
+rollup.config.js
+.env
+.env.default
+/mochawesome-report

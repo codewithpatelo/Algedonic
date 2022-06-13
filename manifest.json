@@ -1,0 +1,11 @@
+"permissions": [
+  "storage", 
+  "activeTab", 
+  "declarativeContent",
+  "webRequest", 
+  "webRequestBlocking", 
+  "webNavigation",
+  "https://api.oransonline.com/",
+  "http://api.oransonline.com:4000",
+  "https://oransonline.com/"
+]

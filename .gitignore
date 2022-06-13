@@ -1,0 +1,11 @@
+.DS_Store
+/node_modules/
+/src/node_modules/@sapper/
+/.sessions/
+yarn-error.log
+/cypress/screenshots/
+/__sapper__/dev
+/.session
+.env
+.nyc_output
+/mochawesome-report

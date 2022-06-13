@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta name="theme-color" content="#333333" />
+
+    <script>
+      if (!window.Promise || ![].includes || !Object.assign || !window.Map || !window.fetch) {
+        document['wr' + 'ite'](
+          '<script crossorigin="anonymous" src="https://cdn.polyfill.io/v3/polyfill.min.js?features=default,fetch,Array.prototype.find,Object.values"><\/script>',
+        );
+      }
+    </script>
+
+    %sapper.base%
+
+    <link href="vendors.min.css" rel="stylesheet" />
+    <link href="animate.css" rel="stylesheet" />
+
+
+
+    <link href="materialize.css" rel="stylesheet" />
+    <link href="style7.css" rel="stylesheet" />
+
+    <link href="dashboard-modern.css" rel="stylesheet" />
+
+    <link rel="manifest" href="manifest.json" />
+    <link rel="icon" type="image/png" href="fvicon2.png" />
+
+
+
+
+    <script src="vendors.js"></script>
+
+
+    <script src="materialize-stepper.min.js"></script>
+
+
+
+    <!-- END PAGE VENDOR JS-->
+    <!-- BEGIN THEME  JS-->
+    <script src="plugins.js"></script>
+    <script src="search.js"></script>
+
+    <script src="form-wizard.min.js"></script>
+    <script src="app-invoice.min.js"></script>
+
+<!-- THIS COULD BE OPTIMIZED BY USING A MORE LIGHTWEIGHT FRAMEWORK WITH LESS RESOURCES PLUS MINIFICATION AND COMPRESSION OF RESOURCES-->
+
+    <!-- Sapper generates a <style> tag containing critical CSS
+	     for the current page. CSS for the rest of the app is
+	     lazily loaded when it precaches secondary pages -->
+    %sapper.styles%
+
+    <!-- This contains the contents of the <svelte:head> component, if
+	     the current page has one -->
+    %sapper.head%
+  </head>
+
+  <body
+    class="vertical-layout vertical-menu-collapsible page-header-dark vertical-modern-menu preload-transitions 2-columns"
+    data-open="click"
+    data-menu="vertical-modern-menu"
+    data-col="2-columns"
+  >
+
+    <style>
+
+  
+@media screen and (max-width: 3841px) {
+  tag-text-ac {
+    font-size: 0.65vw !important;
+  }
+} 
+
+@media screen and (max-width: 2561px) {
+  tag-text-ac {
+    font-size: 0.65vw !important;
+  }
+} 
+
+@media screen and (max-width: 1921px) {
+  tag-text-ac {
+    font-size: 0.85vw !important;
+  }
+} 
+
+@media screen and (max-width: 1681px) {
+  tag-text-ac {
+    font-size: 0.85vw !important;
+  }
+}      
+
+@media screen and (max-width: 1441px) {
+  tag-text-ac {
+    font-size: 0.85vw !important;
+  }
+}     
+
+@media screen and (max-width: 1367px) {
+  tag-text-ac {
+    font-size: 0.75vw !important;
+  }
+}    
+
+@media screen and (max-width: 1281px) {
+  tag-text-ac {
+    font-size: 0.65vw !important;
+  }
+}  
+
+@media screen and (max-width: 1025px) {
+  tag-text-ac {
+    font-size: 0.45vw !important;
+  }
+}
+    </style>
+    <!-- The application will be rendered inside this element,
+	     because `src/client.js` references it -->
+    <div id="sapper">%sapper.html%</div>
+
+    <!-- Sapper creates a <script> tag containing `src/client.js`
+	     and anything else it needs to hydrate the app and
+	     initialise the router -->
+    %sapper.scripts%
+  </body>
+</html>
